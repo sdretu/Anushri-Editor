@@ -2,8 +2,8 @@
 	"name" : "Anushri Editor",
 	"version" : 1,
 	"creationdate" : -856082796,
-	"modificationdate" : -847784801,
-	"viewrect" : [ 1167.0, 122.0, 300.0, 500.0 ],
+	"modificationdate" : -847782330,
+	"viewrect" : [ 1217.0, 128.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -37,6 +37,14 @@
 		}
 ,
 		"code" : 		{
+
+		}
+,
+		"other" : 		{
+			"Anushri-icon.icns" : 			{
+				"kind" : "file",
+				"local" : 1
+			}
 
 		}
 
